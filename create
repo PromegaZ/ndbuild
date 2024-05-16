@@ -1,1 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
 
+        <style>
+            body {
+                font-size: 50px;
+                font-weight: bold;
+                text-align:center;
+            }
+        </style>
+
+      <title>Nova Drift Builds</title>
+
+    </head> 
+
+   <body>
+    
+    <body background="https://cdn5.idcgames.com/storage/image/1248/game_home_bg_section_2/default.jpg"></body>
+
+      <header>  
+
+      <h1 style="color: #ffffff">ndbuild.com</h1>
+
+      <nav>
+         <a href=create style="color: #ffffff">Create a build</a>
+      </nav>
+
+      <nav>
+         <a href=builds/top style="color: #ffffff">View public builds</a>
+      </nav>
+
+      <nav>
+         <a href=scores style="color: #ffffff">View high scores</a>
+      </nav>
+
+    </body>
+
+</html>
